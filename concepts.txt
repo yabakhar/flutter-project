@@ -1,0 +1,12 @@
+table = collection
+
+row = document
+
+cell = feild
+
+
+ba9i lmochkil f ila kan email wla la 
+
+https://stackoverflow.com/questions/50788549/using-stream-building-with-a-specific-firestore-document
+
+f login o f register o fel forgit password
